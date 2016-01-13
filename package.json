@@ -8,7 +8,7 @@
   ],
   "main": "editorconfig.js",
   "bin": {
-    "editorconfig": "bin/editorconfig"
+    "editorconfig": "./bin/editorconfig"
   },
   "contributors": [
     "Hong Xu (topbug.net)",
